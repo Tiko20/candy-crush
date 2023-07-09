@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.matrix {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+}
+
+.culumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
